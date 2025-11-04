@@ -21,8 +21,12 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="tumblr_b73d6cef9b0bf7eec635544bb5332796_9358ce90_250.png" alt=" Left" width="120" style="margin-right: 16px;">
+  <img src="tumblr_b73d6cef9b0bf7eec635544bb5332796_9358ce90_250.png" alt="Left" width="120" style="margin-right: 16px;">
   <span>
 𝓛𝓲𝓯𝓮 𝓘𝓼 𝓛𝓲𝓴𝓮 𝓓𝓲𝓬𝓮, 𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼 𝓕𝓪𝓲𝓻 𝓐𝓷𝓭 𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼 𝓤𝓷𝓯𝓪𝓲𝓻
   </span>
+</div>
+
+<div align="right">
+  <img src="tumblr_af3b66b87acfb953068d3f67d7be386d_5ae4c64b_400.png" alt="Right aligned" width="120"/>
 </div>
