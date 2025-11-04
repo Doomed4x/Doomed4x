@@ -17,7 +17,7 @@
 <p align="center"> 𝙄𝙛 𝙄'𝙢 𝘿𝙚𝙥𝙧𝙚𝙨𝙨𝙚𝙙 𝙃𝙑𝙔𝘿𝙉𝙄
 
 <div align="center">
-  <img src="" alt="description"/>
+  <img src="Screenshot_20251024_212834_Video Player.jpg" alt="description"/>
 </div>
 
 <div align="center">
