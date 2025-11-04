@@ -17,3 +17,4 @@
 <p align="center"> 𝙄𝙛 𝙄'𝙢 𝘿𝙚𝙥𝙧𝙚𝙨𝙨𝙚𝙙 𝙃𝙑𝙔𝘿𝙉𝙄
 
 ![image](ThreeInPain.webp)
+git mv <left/image.jpg> <center/image.jpg> ![image](tumblr_06bf643c31565faa3944cba2f5ef5aca_3dfc731c_250.webp)
