@@ -18,6 +18,4 @@
 
 ![image](ThreeInPain.webp)
 
-<div align="center">
-  <img src="tumblr_06bf643c31565faa3944cba2f5ef5aca_3dfc731c_250.webp" alt="description"/>
-</div>
+<img src="tumblr_b73d6cef9b0bf7eec635544bb5332796_9358ce90_250.png" alt="Top Left" style="float:left; margin-right: 16px;" width="120"/>
