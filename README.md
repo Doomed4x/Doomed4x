@@ -36,7 +36,7 @@
   <img src="tumblr_af3b66b87acfb953068d3f67d7be386d_5ae4c64b_400.png" alt="Right aligned" width="120"/>
 </div>
 
-<p align="center"> <a href="tumblr_535ab54952c6f0a190580a8ee7ef9a14_e5ba3b57_400.gif" target="_blank">⤷𝙈𝙮 𝙏𝙪𝙢𝙗𝙡𝙧ᯓᡣ𐭩</a>
+<p align="center"> <a href="https://melodysal.tumblr.com/?source=share" target="_blank">⤷𝙈𝙮 𝙏𝙪𝙢𝙗𝙡𝙧ᯓᡣ𐭩</a>
 <p align="center"> <a href="https://melodysal.straw.page" target="_blank">⤷𝙈𝙮 𝙎𝙩𝙧𝙖𝙬𝙥𝙖𝙜𝙚ᯓᡣ𐭩</a>
-<p align="center"> <a href="https://pin.it/5NxIeJCx5" target="_blank">⤷𝙈𝙮 𝙋𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩ᯓᡣ𐭩</a>
+<p align="center"> <a href="https://pin.it/3VJsYS7Xw" target="_blank">⤷𝙈𝙮 𝙋𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩ᯓᡣ𐭩</a>
 <p align="center"> <a href="https://www.instagram.com/melodysal47/" target="_blank">⤷𝙈𝙮 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢ᯓᡣ𐭩</a>
