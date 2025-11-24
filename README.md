@@ -37,6 +37,6 @@
 </div>
 
 <p align="center"> <a href="https://melodysal.tumblr.com/?source=share" target="_blank">⤷𝙈𝙮 𝙏𝙪𝙢𝙗𝙡𝙧ᯓᡣ𐭩</a>
-<p align="center"> <a href="https://melodysal.straw.page" target="_blank">⤷𝙈𝙮 𝙎𝙩𝙧𝙖𝙬𝙥𝙖𝙜𝙚ᯓᡣ𐭩</a>
+<p align="center"> <a href="https://doomed4x.straw.page" target="_blank">⤷𝙈𝙮 𝙎𝙩𝙧𝙖𝙬𝙥𝙖𝙜𝙚ᯓᡣ𐭩</a>
 <p align="center"> <a href="https://pin.it/3VJsYS7Xw" target="_blank">⤷𝙈𝙮 𝙋𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩ᯓᡣ𐭩</a>
 <p align="center"> <a href="https://www.instagram.com/melodysal47/" target="_blank">⤷𝙈𝙮 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢ᯓᡣ𐭩</a>
