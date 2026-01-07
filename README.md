@@ -16,9 +16,12 @@
 
 <p align="center"> ☔︎︎ 𝙄𝙛 𝙄'𝙢 𝘿𝙚𝙥𝙧𝙚𝙨𝙨𝙚𝙙 𝘿𝙉𝙄 ּ ֶָ֢.
 
-<div align="center">
-  <img src="" alt="description"/>
+<div align="right">
+  <img src="Untitled20_20260107072112.png" alt="Right aligned" width="120"/>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <img src="Untitled21_20260107072238.png" alt="Left" width="120" style="margin-right: 16px;">
 
 <div align="center">
   <img src="tumblr_06bf643c31565faa3944cba2f5ef5aca_3dfc731c_250.webp" alt="description"/>
@@ -33,7 +36,7 @@
 </div>
 
 <div align="right">
-  <img src="tumblr_af3b66b87acfb953068d3f67d7be386d_5ae4c64b_400.png" alt="Right aligned" width="120"/>
+  <img src="Untitled23_20260107072212.png" alt="Right aligned" width="120"/>
 </div>
 
 <p align="center"> <a href="https://melodysal.tumblr.com/?source=share" target="_blank">⤷𝙈𝙮 𝙏𝙪𝙢𝙗𝙡𝙧ᯓᡣ𐭩</a>
