@@ -45,4 +45,3 @@
 <p align="center"> <a href="https://www.instagram.com/melodysal47/" target="_blank">⤷𝙈𝙮 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢ᯓᡣ𐭩</a>
 
 ![image](Screenshot_20260108_063349_Opera(1).jpg)
-<p align="center"> 𝟳𝟰 𝗔𝗻𝗱 𝟰𝟳 = 𝘅𝟰 𝗔𝗻𝗱 𝟰𝘅
