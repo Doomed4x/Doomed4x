@@ -14,8 +14,6 @@
 
 ![image](tumblr_1cefda106df8cfc9e3a9d4f4e385e316_59a351f5_1280.gif)
 
-<p align="center"> ☔︎︎ 𝙄𝙛 𝙄'𝙢 𝘿𝙚𝙥𝙧𝙚𝙨𝙨𝙚𝙙 𝘿𝙉𝙄 ּ ֶָ֢.
-
 <div align="right">
   <img src="tumblr_ec216f814eaaed1d52da6212a3bda81f_02ca7485_75.gif" alt="Right aligned" width="120"/>
 </div>
