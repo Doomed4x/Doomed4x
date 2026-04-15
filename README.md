@@ -2,4 +2,8 @@
 
 
 
-[Instagram](https://www.instagram.com/melodysal47/) [Strawpage](https://doomed4x.straw.page/) [Tumblr](https://melodysal.tumblr.com/?source=share) [Pinterest](https://pin.it/3VJsYS7Xw)
+<div align="center">
+  
+[ɪɴꜱᴛᴀɢʀᴀᴍ](https://www.instagram.com/melodysal47/)‏ 𖦹 [ꜱᴛʀᴀᴡᴘᴀɢᴇ](https://doomed4x.straw.page/)‏ 𖦹 [ᴛᴜᴍʙʟʀ](https://melodysal.tumblr.com/?source=share)‏
+  
+</div>
